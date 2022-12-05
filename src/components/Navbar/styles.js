@@ -9,10 +9,10 @@ export const Nav = styled.nav`
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  padding: 0 20em 0 20em;
+  padding: 0 20em 0 12vw;
 
   @media screen and (max-width: 768px) {
-    padding: 0 20em 0 0;
+    padding: 0 63vw 0 0;
   }
 `;
 
